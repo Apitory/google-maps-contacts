@@ -69,3 +69,14 @@ No contact found → no lead charge. No website → no lead charge. You never pa
 **[Google Maps Business Contact Extractor — Apify Store](https://apify.com/apitory/google-maps-contacts)**
 
 Public data only: the Actor collects contact details that businesses publish on Google Maps and on their own websites. Two honest limits from the listing: website fetching is plain HTTP, so a minority of sites that block datacenter IPs or hide contacts behind JavaScript come back with empty contact arrays (and are not charged as leads); and phone numbers found in page text rather than `tel:` links can include false positives — treat text-only numbers as unverified. Support: apitoryhq@gmail.com.
+
+---
+
+## More from Apitory
+
+Same family, different cut:
+
+- [Google Maps Home Services Leads](https://github.com/Apitory/google-maps-home-services-leads) — run it on Apify: https://apify.com/apitory/google-maps-home-services-leads
+- [Google Maps Dentist Leads](https://github.com/Apitory/google-maps-dentist-leads) — run it on Apify: https://apify.com/apitory/google-maps-dentist-leads
+
+Full catalogue: https://apitory.com · All Actors: https://apify.com/apitory · All projects: https://github.com/Apitory
