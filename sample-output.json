@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Baldoria Madrid",
+    "category": "Restaurante italiano",
+    "address": "C. de Jos\u00e9 Ortega y Gasset, 100, Salamanca, 28006 Madrid",
+    "phone": "(redacted in this public sample)",
+    "website": "https://baldoriamadrid.com/",
+    "rating": 4.8,
+    "reviewsCount": 28976,
+    "placeId": "ChIJ\u2026",
+    "contactFound": true,
+    "_contact": {
+      "emails": [
+        "(redacted in this public sample)"
+      ],
+      "phones": [
+        "(redacted in this public sample)"
+      ],
+      "socialLinks": [
+        "https://www.instagram.com/baldoriamadrid/"
+      ]
+    }
+  }
+]
