@@ -78,5 +78,6 @@ Same family, different cut:
 
 - [Google Maps Home Services Leads](https://github.com/Apitory/google-maps-home-services-leads) — run it on Apify: https://apify.com/apitory/google-maps-home-services-leads
 - [Google Maps Dentist Leads](https://github.com/Apitory/google-maps-dentist-leads) — run it on Apify: https://apify.com/apitory/google-maps-dentist-leads
+- [Google Maps Lead Extractor for Spain](https://github.com/Apitory/leads-negocios-google-maps) — run it on Apify: https://apify.com/apitory/leads-negocios-google-maps
 
 Full catalogue: https://apitory.com · All Actors: https://apify.com/apitory · All projects: https://github.com/Apitory
